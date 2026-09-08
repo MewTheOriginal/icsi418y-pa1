@@ -2,7 +2,7 @@
 
 **App Name:** My Task List
 
-**Author:** Meina Chan
+**Author:** Jonathan Pactong Lin
 
 ## Description
 
